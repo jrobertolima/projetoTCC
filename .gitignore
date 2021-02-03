@@ -2,5 +2,6 @@ predator
 predator.pub
 Datasets
 teste.*
+*.csv
 .ipynb_checkpoints
 geckodriver.*
