@@ -4,4 +4,4 @@ Datasets
 teste.*
 *.csv
 .ipynb_checkpoints
-geckodriver.*
+geckodriver*
